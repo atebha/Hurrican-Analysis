@@ -13,7 +13,9 @@ This project was for the purpose of analyzing a hurricane data set from certain 
 3. Katrina had the highest property damage at 125B.
 
 ## Challenges
-There were quite a few challenges of this project the biggest being iterating thorugh the dictionaries repeatedly. Another challenge was creating a new function each time to do further analysis. This made the script larger and more inefficient than necessary.
+There were quite a few challenges of this project the biggest being iterating thorugh the dictionaries repeatedly. Another challenge was creating a new function each time to do further analysis. This made the script larger and more inefficient than necessary.The data integrity s also questionable as certain hurricane would have disaster relief after the dmaage which would increase total damage associated with that particular hurricane event. 
+
+The code can be cleaned up and if pandas, numpy and matplotlib are used the data can be analyzed quicker and have visuals appllied to it. 
 
 ## Use Cases
 NGO and governemntal bodies can use this data to prepare for future hurricanes and predict possible scope and damage. This can be further fine tuned if the data set is larger and a machine learning model applied to predict expected size and damage. 
